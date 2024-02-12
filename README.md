@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### Just an internet wanderer that explores various skills.🤗
+### ⚡ Fun fact: If you give me cookies, I will come and take it
 <!--
 **Lance-Santos/Lance-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
